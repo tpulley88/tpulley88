@@ -1,52 +1,32 @@
-# Terin Pulley
+# Hi, I'm Terin Pulley
 
-**Software Engineer | AI, Mobile & Full-Stack**
+I’m a software engineer who builds mobile, full-stack, and AI-assisted products for complicated real-world workflows. My background spans Android engineering, TypeScript and React applications, Java desktop software, workflow automation, and privacy-conscious healthcare technology.
 
-I build software for complicated, real-world workflows — from high-traffic Android applications to agentic AI systems and healthcare-focused products.
+I’m especially interested in work that combines strong product judgment with technical ownership: making unfamiliar systems understandable, reducing delivery risk, and turning operational problems into software people can actually use.
 
-My strongest through-line is technical ownership: learning unfamiliar systems quickly, reducing delivery risk, improving architecture and developer workflows, and turning messy operational problems into usable software.
+## Selected projects
 
-## What I work on
+| Project | What it demonstrates | Stack |
+| --- | --- | --- |
+| [ProcessRx.ai](https://github.com/tpulley88/processrx-ai) | Responsive workflow-automation product prototype with credential-free guided interactions and explicit security boundaries | React, TypeScript, Vite, Tailwind CSS |
+| [Witnessed](https://github.com/tpulley88/witnessed) | Privacy-conscious journaling prototype with an offline portfolio demo and responsible crisis-language handling | React Native, Expo, TypeScript |
+| [Student Scheduling App](https://github.com/tpulley88/student-scheduling-app) | Native Android scheduling, persistence, reminders, validation, and reporting | Java, Android, Room |
+| [Software II Scheduler](https://github.com/tpulley88/software-ii-scheduler) | Desktop scheduling and reporting with tested data-access logic and a seeded, zero-configuration demo | Java, JavaFX, SQL, Gradle |
+| [RTIntel Case Study](https://github.com/tpulley88/rtintel-case-study) | Sanitized architecture and product reasoning for a privacy-conscious healthcare workflow platform | Mobile, AI-assisted workflows, system design |
+| [Team Directory Game](https://github.com/tpulley88/team-directory-game) | Offline Android interaction design using entirely fictionalized portfolio data | Java, Android |
 
-- **Mobile engineering:** Android, Kotlin, Jetpack Compose, accessibility, release strategy, CI/CD
-- **Full-stack systems:** TypeScript, Next.js, React, Node.js, FastAPI, PostgreSQL, Prisma
-- **Agentic AI:** Anthropic Claude API, multi-agent orchestration, MCP/tool integrations, human-in-the-loop workflows
-- **Healthcare technology:** respiratory-therapy workflows, clinical operations, privacy-conscious product design
+## Technical focus
 
-## Featured work
+- **Mobile:** Android, Kotlin, Java, Jetpack, React Native, Expo, accessibility
+- **Full stack:** TypeScript, React, Next.js, Node.js, Python, FastAPI, PostgreSQL
+- **AI systems:** agentic workflows, tool integrations, human-in-the-loop design, safety and privacy boundaries
+- **Delivery:** architecture, CI/CD, release risk, technical direction, mentoring
 
-### [RTIntel — Engineering Case Study](https://github.com/tpulley88/rtintel-case-study)
-AI-assisted respiratory therapy workflow platform combining mobile engineering, clinician verification, image-assisted data extraction, and privacy-conscious architecture.
-
-> Commercial product source remains private; the public repository documents the problem, architecture, technical decisions, and product reasoning.
-
-### [Agentic AI Lab](https://github.com/tpulley88/agentic-ai-lab)
-Independent build-in-public lab focused on production-minded AI application patterns: permissions, RBAC, multi-agent orchestration, explicit tool boundaries, auditability, failure handling, and full-stack architecture.
-
-## Professional background
-
-I’m a Platform Software Engineer at WillowTree / TELUS Digital with experience across:
-
-- Android technical direction and delivery for a high-traffic state lottery application
-- Enterprise AI prototyping across healthcare and other domains
-- Agentic AI and full-stack application development
-- CI/CD modernization, release-risk management, accessibility, and engineering mentorship
-
-Before software engineering, I worked as a respiratory therapist in ICU, ED, and step-down environments. That clinical background now informs the healthcare software I design and build.
-
-## Current focus
-
-I’m currently expanding my public portfolio around three areas:
-
-1. production-minded agentic AI systems
-2. healthcare workflow software
-3. technically rigorous product engineering across mobile and full-stack applications
+Before moving into software engineering, I worked as a respiratory therapist in ICU, emergency, and step-down settings. That clinical experience still shapes how I approach safety, usability, and healthcare workflow design.
 
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/terin-pulley)
-- Email: **tpulley88@gmail.com**
+- [Email](mailto:tpulley88@gmail.com)
 
----
-
-*Public repositories here are intentionally separated from employer/client code and from proprietary commercial source.*
+> Public work here is intentionally separated from employer, client, and proprietary commercial source code. Older projects are presented as historical portfolio work and have been sanitized where appropriate.
